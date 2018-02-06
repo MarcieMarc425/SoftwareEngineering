@@ -6,7 +6,7 @@
 - Semester: Spring 2018
 - Advisor: Professor Strauss
 - Project Name:
-- Team members: Chun Zen Marc Tse (czt210), Anish Malhorta ()
+- Team members: Chun Zen Marc Tse (czt210), Anish Malhotra (), ()
 
 ## Project Motivation
 
