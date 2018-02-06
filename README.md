@@ -1,7 +1,6 @@
-# Software Engineering Project
+# Software Engineering Project Proposal
 
 
-## Project Proposal
 ## Cover Page
 - Course: CS 4513
 - Semester: Spring 2018
