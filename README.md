@@ -3,9 +3,12 @@
 ## Deep Network Analysis Brand Management Platform (DNA)
 
 ### TODO (for team)
-- Design user interface for the application
-- Implement basic search functions
-- Implement search history
+- Documentation:
+    - RAS (Revised)
+- Application:
+    - Design user interface for the application
+    - Implement basic search functions
+    - Implement search history
 
 ### Idea behind the project
 The idea for the application emerges as we see the potential of big data analysis and deep learning. With the current availability of large datasets online, myriad of information can be processed to make strategic decisions for businesses and industries. We look to utilize those untapped information to optimize and enhance the effectiveness of businesses, as well as providing meaningful insights to strategies employed by businesses.
