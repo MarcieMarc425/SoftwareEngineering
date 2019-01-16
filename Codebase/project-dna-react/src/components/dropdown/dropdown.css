@@ -1,0 +1,29 @@
+.dropdown {
+    display: inline-block;
+}
+
+.dropdown__content {
+    display: none;
+    position: absolute;
+}
+
+.dropdown--active .dropdown__content {
+    display: block;
+}
+
+.width-50 {
+    width: 50px;
+}
+
+.mouse-pointer {
+    cursor: pointer;
+}
+
+.z-index {
+    z-index: 9999999;
+}
+
+.dropdown--active .dropdown__content {
+    z-index: 99999999 !important;
+    display: flex !important;
+}

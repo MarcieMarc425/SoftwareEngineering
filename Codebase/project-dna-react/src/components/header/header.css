@@ -1,0 +1,14 @@
+#header {
+	border-bottom: solid #b5c7d8;
+	position: sticky;
+	top: 0;
+	z-index: 99 !important;
+	background: #fff;
+}
+
+#fullHead {
+	z-index: 99 !important;
+	position: -webkit-sticky;
+	position: sticky;
+	top: 0;
+}

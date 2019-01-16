@@ -1,0 +1,45 @@
+{
+	"name": "project-dna-react",
+	"version": "0.1.0",
+	"private": true,
+	"dependencies": {
+		"ag-grid-community": "^19.1.4",
+		"ag-grid-react": "^19.1.2",
+		"axios": "^0.18.0",
+		"chart.js": "^2.7.3",
+		"lodash": "^4.17.11",
+		"ml-svm": "^2.1.2",
+		"prop-types": "^15.6.2",
+		"react": "^16.7.0",
+		"react-chartjs-2": "^2.7.4",
+		"react-dom": "^16.7.0",
+		"react-flip-move": "^3.0.3",
+		"react-redux": "^6.0.0",
+		"react-route": "^1.0.3",
+		"react-router": "^4.3.1",
+		"react-router-dom": "^4.3.1",
+		"react-scripts": "^2.1.1",
+		"react-simple-dropdown": "^3.2.3",
+		"reactstrap": "^6.5.0",
+		"redux": "^4.0.1",
+		"redux-devtools-extension": "^2.13.7",
+		"redux-thunk": "^2.3.0",
+		"validator": "^10.9.0"
+	},
+	"scripts": {
+		"start": "react-scripts start",
+		"build": "react-scripts build",
+		"test": "react-scripts test",
+		"eject": "react-scripts eject"
+	},
+	"proxy": "http://localhost:8080",
+	"eslintConfig": {
+		"extends": "react-app"
+	},
+	"browserslist": [
+		">0.2%",
+		"not dead",
+		"not ie <= 11",
+		"not op_mini all"
+	]
+}

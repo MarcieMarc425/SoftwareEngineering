@@ -1,0 +1,26 @@
+.logo {
+	margin-top: 1em;
+}
+
+.logo p {
+	font-family: 'Roboto', sans-serif;
+	color: white;
+}
+
+#head {
+	font-size: 25pt;
+	font-weight: 500;
+	margin-bottom: -10px;
+}
+
+#msg {
+	font-size: 10pt;
+	font-weight: 300;
+	font-style: italic;
+	margin-bottom: 44px;
+}
+
+.form-col {
+	left: 50%;
+	top: 50%;
+}

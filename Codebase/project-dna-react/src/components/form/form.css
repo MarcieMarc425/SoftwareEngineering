@@ -1,0 +1,64 @@
+.form {
+	height: 558px;
+	width: 504px;
+	background-color: white;
+	border-radius: 10px;
+	box-shadow: 0px 2px 7px 0px #6f6f6f;
+	padding: 10px;
+	padding-left: 50px;
+	padding-right: 50px;
+}
+
+.form p {
+	color: #2f2f2f;
+	font-family: 'Roboto', sans-serif;
+	text-align: center;
+}
+
+#welcome {
+	font-weight: 200;
+	font-size: 30pt;
+	margin-top: 25px;
+	margin-bottom: -10px;
+}
+
+#msg-form {
+	font-weight: 300;
+	font-size: 12pt;
+	color: #4b4b4b;
+}
+
+#emailTxt {
+	font-weight: 400;
+	font-size: 10pt;
+}
+
+#emailHelp {
+	margin-bottom: -8px;
+}
+
+#forgotPwd {
+	margin-bottom: -8px;
+}
+
+.forgot {
+	color: #3d609b;
+}
+
+#password {
+	font-weight: 400;
+	font-size: 10pt;
+}
+
+.rg {
+	color: #3d609b;
+}
+
+.btn {
+	margin-top: 25px;
+	width: 100%;
+	font-family: 'Roboto', sans-serif;
+	font-size: 14pt;
+	background-color: #5fbaef;
+	border-color: #5fbaef;
+}
