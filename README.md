@@ -38,8 +38,8 @@ The application should have the following requirements to suit the needs for the
 - Software Project Management Plan (SPMP): 4/05/18 *Done
 - Software Design Document: 5/01/18 *Done
 - Project Proposal (Final): 9/12/18 *Done
-- Software Requirement and Analysis Specification (RAS) (Final): 9/19/18
-- Software Project Management Management Plan (SPMP) (Final): 9/26/18
+- Software Requirement and Analysis Specification (RAS) (Final): 9/19/18 *Done
+- Software Project Management Management Plan (SPMP) (Final): 9/26/18 *Done
 - Software Design Document (SDD):
-    - Initial: 10/17/18
-    - Final (with Code): 11/28/18
+    - Initial: 10/17/18 *Done
+    - Final (with Code): 11/28/18 *Done
